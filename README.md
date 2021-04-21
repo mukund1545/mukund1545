@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mukund1545
+- 👋 Hi, I’m Mukund Nagar
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently pursuing B.tech in Computer Science
 
